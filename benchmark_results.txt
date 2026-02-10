@@ -1,0 +1,10 @@
+------------------------------------------------
+Runner:   Subhrajit Maitra
+Date:     Tue Feb 10 09:19:07 UTC 2026
+CPU:      AMD Ryzen 7 7435HS
+Command:  ./matrix_engine 2000 4
+Output:
+Sequential: 51.015198 s
+Parallel:   15.175903 s
+
+------------------------------------------------
