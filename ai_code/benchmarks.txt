@@ -1,0 +1,20 @@
+=================================================
+         OS PROJECT - MATRIX MULT RESULTS        
+=================================================
+
+------------------------------------------------
+USER: mandrita   | RAM: 7.41 GB | CORES: 8
+MATRIX SIZE: 1000 x 1000
+SEQUENTIAL TIME: 3.1631 seconds
+PARALLEL TIME  : 0.3824 seconds
+SPEEDUP        : 8.27x faster
+------------------------------------------------
+
+------------------------------------------------
+USER: mandrita   | RAM: 7.41 GB | CORES: 8
+MATRIX SIZE: 2000 x 2000
+SEQUENTIAL TIME: 51.6945 seconds
+PARALLEL TIME  : 3.2806 seconds
+SPEEDUP        : 15.76x faster
+------------------------------------------------
+
