@@ -63,8 +63,9 @@ Output:
 Sequential: 18.24000 s
 Parallel:    4.12000 s
 ```
+---
 
-🤖 AI-Generated Version 
+## 🤖 AI-Generated Version 
 
 The AI version includes Cache-Optimization (Transposition) and Resource Guard (RAM Detection). It is significantly faster than the standard version and safer for systems with limited memory.
 1. Navigate to the AI Directory
