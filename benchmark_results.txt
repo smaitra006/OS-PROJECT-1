@@ -8,3 +8,13 @@ Sequential: 51.015198 s
 Parallel:   15.175903 s
 
 ------------------------------------------------
+------------------------------------------------
+Runner:   MANDRITA-MAJI
+Date:     Wednesday 11 February 2026 09:57:31 PM IST
+CPU:      11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+Command:  ./matrix_engine 2000 4
+Output:
+Sequential: 36.874106 s
+Parallel:   8.311932 s
+
+------------------------------------------------
