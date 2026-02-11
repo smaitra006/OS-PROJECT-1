@@ -63,3 +63,23 @@ Output:
 Sequential: 18.24000 s
 Parallel:    4.12000 s
 ```
+
+🤖 AI-Generated Version 
+
+The AI version includes Cache-Optimization (Transposition) and Resource Guard (RAM Detection). It is significantly faster than the standard version and safer for systems with limited memory.
+1. Navigate to the AI Directory
+```bash
+
+cd ai_code
+```
+2. Run the Resource-Aware Benchmark
+
+The run.sh script in this folder will automatically check your Total RAM and decide if it is safe to run the 5000×5000 matrix test.
+```Bash
+
+# Grant execution permission
+chmod +x run.sh
+
+# Run the automated AI benchmark
+./run.sh
+```
