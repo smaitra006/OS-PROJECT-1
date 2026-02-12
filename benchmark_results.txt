@@ -18,3 +18,13 @@ Sequential: 36.874106 s
 Parallel:   8.311932 s
 
 ------------------------------------------------
+------------------------------------------------
+Runner:   Chittajit Nath
+Date:     Fri Feb 13 12:01:48 AM IST 2026
+CPU:      Intel(R) Core(TM) i7-14700HX
+Command:  ./matrix_engine 2000 4
+Output:
+Sequential: 9.462065 s
+Parallel:   2.372178 s
+
+------------------------------------------------
