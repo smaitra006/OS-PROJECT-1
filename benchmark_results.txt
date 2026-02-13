@@ -28,3 +28,13 @@ Sequential: 9.462065 s
 Parallel:   2.372178 s
 
 ------------------------------------------------
+------------------------------------------------
+Runner:   Arghajit-Saha
+Date:     Fri Feb 13 03:02:06 PM IST 2026
+CPU:      13th Gen Intel(R) Core(TM) i5-13450HX
+Command:  ./matrix_engine 2000 4
+Output:
+Sequential: 11.461856 s
+Parallel:   2.667249 s
+
+------------------------------------------------
