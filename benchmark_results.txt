@@ -38,3 +38,13 @@ Sequential: 11.461856 s
 Parallel:   2.667249 s
 
 ------------------------------------------------
+------------------------------------------------
+Runner:   Vanshika
+Date:     Sat Feb 14 07:28:09 PM IST 2026
+CPU:      13th Gen Intel(R) Core(TM) i5-1340P
+Command:  ./matrix_engine 2000 4
+Output:
+Sequential: 9.178023 s
+Parallel:   2.869309 s
+
+------------------------------------------------
