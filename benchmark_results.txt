@@ -48,3 +48,13 @@ Sequential: 9.178023 s
 Parallel:   2.869309 s
 
 ------------------------------------------------
+------------------------------------------------
+Runner:   Debanjan Pal
+Date:     Thu Feb 19 15:51:19 IST 2026
+CPU:      Intel(R) Core(TM) i7-14700HX
+Command:  ./matrix_engine 2000 4
+Output:
+Sequential: 16.148294 s
+Parallel:   4.211246 s
+
+------------------------------------------------
